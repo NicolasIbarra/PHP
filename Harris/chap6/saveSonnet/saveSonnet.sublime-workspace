@@ -1,0 +1,251 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "pack",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/nicolasibarra/Desktop/test.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/PHP/DevMarketer/LaravelBlog/routes/web.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/PHP/DevMarketer/LaravelBlog/app/Http/Controllers/pagesController.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/PHP/DevMarketer/LaravelBlog/resources/views/pages/welcome.blade.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/PHP/DevMarketer/LaravelBlog/resources/views/pages/about.blade.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/PHP/DevMarketer/LaravelBlog/resources/views/pages/contact.blade.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/simpleHtml/checkboxes.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/simpleHtml/check.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/simpleHtml/index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/simpleHtml/style.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/simpleHtml/chk_list_demo.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/laravel-blog/blog/resources/views/about.blade.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/laravel-blog/blog/app/Http/Controllers/pagesController.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/laravel-blog/blog/routes/web.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/laravel-blog/blog/resources/views/welcome.blade.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/laravel-blog/blog/resources/views/contact.blade.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/laravel-blog/blog/resources/views/untitled",
+		"/Applications/XAMPP/xamppfiles/htdocs/laravel-blog/README.md",
+		"/Users/nicolasibarra/Desktop/AfterEffectsExercise/info.txt",
+		"/Applications/XAMPP/xamppfiles/htdocs/jquery-tricks/index.html",
+		"/Users/nicolasibarra/Desktop/TEST/index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/bloggin/index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/bloggin/README.md",
+		"/Applications/XAMPP/xamppfiles/htdocs/bloggin/style.css",
+		"/Users/nicolasibarra/hello-world/index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/ejercicioJQ/hegel/index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/ejercicioJQ/index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/blog/admin/index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/blog/admin/login.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/blog/admin/logout.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/blog/admin/npost.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/blog/post.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/blog/index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/blog/admin/newpost.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/blog/admin/users.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/blog/includes/db_connect.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/Yanez/Resource/index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/Yanez/Resource/css/styles.css",
+		"/Users/nicolasibarra/Desktop/GitRepo/github-for-noobs/style.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/scroll/js/script.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/scroll/style/index_style.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/scroll/index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/scroll/style/index-style.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/blog/admin/db_connect.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/Yanez/Documentation/assets/css/style.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/Yanez/Documentation/assets/js/scripts.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/Yanez/Documentation/assets/css/bootstrap.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/Yanez/Documentation/assets/js/bootstrap.min.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/Yanez/Documentation/assets/js/jquery.easing.1.3.min.js",
+		"/Users/nicolasibarra/Desktop/index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/blog/login.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/blog/log.php",
+		"/private/var/folders/fj/vh5gnbl11l1gbnmc9cggl6840000gn/T/com.naarak.ViperFTPLite/tmp.G7jBTE/index.html",
+		"/private/var/folders/fj/vh5gnbl11l1gbnmc9cggl6840000gn/T/com.naarak.ViperFTPLite/tmp.1V4nrv/mailer.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/Yanez/Documentation/index.html",
+		"/private/var/folders/fj/vh5gnbl11l1gbnmc9cggl6840000gn/T/com.naarak.ViperFTPLite/tmp.yIp5d8/index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/Yanez/VolarTemplate/GON2.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/Yanez/VolarTemplate/indexY.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/Yanez/VolarTemplate/indexGY.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/Yanez/VolarTemplate/princi.html",
+		"/Users/nicolasibarra/Desktop/hosts",
+		"/Users/nicolasibarra/Desktop/nico.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".overlay opacity",
+			"overlay",
+			"rgba",
+			"overlay",
+			"acto",
+			"pull-left",
+			"init",
+			"pull",
+			"nav",
+			"navbar",
+			"hs",
+			"hs-text",
+			"watch the show"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "saveSonnet.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 246.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}
