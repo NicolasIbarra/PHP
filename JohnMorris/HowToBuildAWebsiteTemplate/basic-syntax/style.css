@@ -1,0 +1,14 @@
+#box1 { 
+	width: 500px; 
+	height: 500px;
+	border: 1px solid #000; 
+	float: left; 
+	background: #e4e4e4;
+}
+
+#box2 {
+	width: 300px; 
+	height: 500px; 
+	border: 1px solid #000; 
+	float: left;
+}
