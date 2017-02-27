@@ -68,9 +68,9 @@
         <div class="flex-center position-ref full-height">
             <div class="content">
                 <div class="title m-b-md">
-                    About Me
+                    About Me {{ $data['fullname'] }}
                 </div>
-                <p>This is the page about me</p>
+                <p>Email me at {{$data['email'] }}</p>
 
             </div>
         </div>
