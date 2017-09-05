@@ -23,7 +23,7 @@ if(mysqli_connect_errno()) {
 
 //PERFORM DATABASE QUERY
 
-$query = "SELECT sum(precio) FROM tabla ";
+$query = "SELECT * FROM tabla ";
 $result = mysqli_query($connection, $query);
 
 if(!$result) {
@@ -42,16 +42,18 @@ if(!$result) {
 
 	<body>
 
-		<?php
-			while($row = mysqli_fetch_row($result)) {
-				print_r($row[0]);
-				echo "<hr />";
-			}
+		<ul>
+			<?php
+			while($row = mysqli_fetch_assoc($result)) { ?>
+			<li><?php echo $row['id']; ?></li>
+			<li><?php echo $row['precio']; ?></li>
+			<li><?php echo $row['item']; ?></li>
 
-			mysqli_free_results($result);
+			<?php } ?>
+
+			<?php mysqli_free_results($result); ?>
 		
-		?>
-
+		</ul>
 	</body>
 
 </html>
