@@ -7,7 +7,7 @@
 	<p>Input: <input type="text" name="input" /></p>
 	<p>Input2: <input type="text" name="input2" /></p>
 
-	<p>Textarea: <textarea rows="20" cols="30" name="textarea"></textarea></p>
+	<p>Textarea: <br><textarea rows="20" cols="30" name="textarea"></textarea></p>
 
 	<p>Dropdown:
 		<select name="dropdown">
